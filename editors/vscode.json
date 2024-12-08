@@ -1,0 +1,23 @@
+{
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "window.customTitleBarVisibility": "windowed",
+  "window.dialogStyle": "custom",
+  "window.titleBarStyle": "custom",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "catppuccin-frappe",
+  "workbench.colorTheme": "Catppuccin Frappé"
+}
